@@ -26,11 +26,7 @@
 ### list[0] list[1] list[2] ... etc 
 
 # How to Store Data in List 
-<<<<<<< HEAD
- ![alt img](https://i.ibb.co/wYbyw7h/LIST.png)
-=======
-https://i.ibb.co/wYbyw7h/LIST.png
->>>>>>> 550a07a8afbd8f49f8fe3b5c87bc59dc5039047d
+[alt img](https://i.ibb.co/wYbyw7h/LIST.png)
 
 
 
