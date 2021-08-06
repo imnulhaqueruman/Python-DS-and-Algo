@@ -26,7 +26,7 @@
 ### list[0] list[1] list[2] ... etc 
 
 # How to Store Data in List 
-[alt img](https://i.ibb.co/wYbyw7h/LIST.png)
+<img src='https://i.ibb.co/wYbyw7h/LIST.png' alt="img" />
 
 
 
